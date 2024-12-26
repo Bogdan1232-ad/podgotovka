@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have fone first ex">
-      <change afterPath="$PROJECT_DIR$/261224/task-2-4581.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/261224/task-3-4606.py" afterDir="false" />
+    <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smt">
+      <change afterPath="$PROJECT_DIR$/261224/task-1-9732.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/261224/task-1-1845.py" beforeDir="false" afterPath="$PROJECT_DIR$/261224/task-1-1845.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,13 +112,22 @@
       <option name="project" value="LOCAL" />
       <updated>1735225872218</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="I have done smt">
+      <option name="closed" value="true" />
+      <created>1735227499769</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735227499769</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit start" />
     <MESSAGE value="8th exercise URA" />
     <MESSAGE value="I have fone first ex" />
-    <option name="LAST_COMMIT_MESSAGE" value="I have fone first ex" />
+    <MESSAGE value="I have done smt" />
+    <option name="LAST_COMMIT_MESSAGE" value="I have done smt" />
   </component>
 </project>
