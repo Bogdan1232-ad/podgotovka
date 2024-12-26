@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="8th exercise URA">
-      <change afterPath="$PROJECT_DIR$/261224/task-1-1845.py" afterDir="false" />
+    <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have fone first ex">
+      <change afterPath="$PROJECT_DIR$/261224/task-2-4581.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/261224/task-3-4606.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EGKR 21-12-24/task-14-19246.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGKR 21-12-24/task-14-19246.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/261224/task-1-1845.py" beforeDir="false" afterPath="$PROJECT_DIR$/261224/task-1-1845.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,8 @@
     "Python.egkr.executor": "Run",
     "Python.task-1-1845.executor": "Run",
     "Python.task-14-19246.executor": "Run",
+    "Python.task-2-4581.executor": "Run",
+    "Python.task-3-4606.executor": "Run",
     "Python.task-5-19237.executor": "Run",
     "Python.task-8-19240.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -103,12 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1734968339830</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="I have fone first ex">
+      <option name="closed" value="true" />
+      <created>1735225872218</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735225872218</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit start" />
     <MESSAGE value="8th exercise URA" />
-    <option name="LAST_COMMIT_MESSAGE" value="8th exercise URA" />
+    <MESSAGE value="I have fone first ex" />
+    <option name="LAST_COMMIT_MESSAGE" value="I have fone first ex" />
   </component>
 </project>
