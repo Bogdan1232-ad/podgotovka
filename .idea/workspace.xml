@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smt">
-      <change afterPath="$PROJECT_DIR$/justlessons/130125/4582.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/130125/4607.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/130125/9733.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/130125/9771.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/justlessons/130125/1846.py" beforeDir="false" afterPath="$PROJECT_DIR$/justlessons/130125/1846.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/justlessons/130125/4607.py" beforeDir="false" afterPath="$PROJECT_DIR$/justlessons/130125/4607.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,9 @@
   "keyToString": {
     "Python.1846.executor": "Run",
     "Python.4582.executor": "Run",
+    "Python.4607.executor": "Run",
+    "Python.9733.executor": "Run",
+    "Python.9771.executor": "Run",
     "Python.egkr.executor": "Run",
     "Python.task-1-1845.executor": "Run",
     "Python.task-14-19246.executor": "Run",
@@ -143,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736779227090</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="I have done smt">
+      <option name="closed" value="true" />
+      <created>1736782347550</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736782347550</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
