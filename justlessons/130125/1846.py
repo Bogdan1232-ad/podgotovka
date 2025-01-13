@@ -7,4 +7,3 @@ for a in range(2):
                     print(c, d, b, a, int(f))
                 # if not f:
                 #     print(a, b, c, d) если было бы ноль
-
