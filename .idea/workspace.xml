@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smth">
+    <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done all second ex. It was good">
+      <change afterPath="$PROJECT_DIR$/hw/150125/ex1-16248.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/150125/ex1-19233.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/150125/ex5-14330.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/150125/ex8-11292.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +62,6 @@
     "Python.ex2-18576.executor": "Run",
     "Python.ex2-19234.executor": "Run",
     "Python.ex5-14330.executor": "Run",
-    "Python.ex8-11292.executor": "Run",
     "Python.task-1-1845.executor": "Run",
     "Python.task-14-19246.executor": "Run",
     "Python.task-2-4581.executor": "Run",
@@ -167,15 +170,7 @@
       <option name="project" value="LOCAL" />
       <updated>1736959746729</updated>
     </task>
-    <task id="LOCAL-00010" summary="I have done smth">
-      <option name="closed" value="true" />
-      <created>1736961931955</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1736961931955</updated>
-    </task>
-    <option name="localTasksCounter" value="11" />
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -184,7 +179,6 @@
     <MESSAGE value="I have fone first ex" />
     <MESSAGE value="I have done smt" />
     <MESSAGE value="I have done all second ex. It was good" />
-    <MESSAGE value="I have done smth" />
-    <option name="LAST_COMMIT_MESSAGE" value="I have done smth" />
+    <option name="LAST_COMMIT_MESSAGE" value="I have done all second ex. It was good" />
   </component>
 </project>
