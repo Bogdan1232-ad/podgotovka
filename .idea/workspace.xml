@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done all second ex. It was good">
-      <change afterPath="$PROJECT_DIR$/hw/190125/ex2-242.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190125/ex2-78.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190125/ex2-816.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190125/ex2-960.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/podgotovka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/podgotovka.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smth" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +32,9 @@
     &quot;accountId&quot;: &quot;661f2c21-4041-47de-b156-0dd5551a8bad&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -176,7 +171,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736959746729</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="I have done smth">
+      <option name="closed" value="true" />
+      <created>1737296595802</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737296595802</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,6 +188,7 @@
     <MESSAGE value="I have fone first ex" />
     <MESSAGE value="I have done smt" />
     <MESSAGE value="I have done all second ex. It was good" />
-    <option name="LAST_COMMIT_MESSAGE" value="I have done all second ex. It was good" />
+    <MESSAGE value="I have done smth" />
+    <option name="LAST_COMMIT_MESSAGE" value="I have done smth" />
   </component>
 </project>
