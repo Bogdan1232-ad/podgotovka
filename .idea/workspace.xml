@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done all second ex. It was good">
-      <change afterPath="$PROJECT_DIR$/hw/150125/ex1-16248.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/150125/ex1-19233.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/150125/ex5-14330.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/150125/ex8-11292.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/190125/ex2-242.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/190125/ex2-78.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/190125/ex2-816.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/190125/ex2-960.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/podgotovka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/podgotovka.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,12 +34,12 @@
     &quot;assignee&quot;: &quot;Bogdan1232-ad&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Bogdan1232-ad/podgotovka.git",
-    "accountId": "661f2c21-4041-47de-b156-0dd5551a8bad"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Bogdan1232-ad/podgotovka.git&quot;,
+    &quot;accountId&quot;: &quot;661f2c21-4041-47de-b156-0dd5551a8bad&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -61,6 +63,10 @@
     "Python.ex2-17665.executor": "Run",
     "Python.ex2-18576.executor": "Run",
     "Python.ex2-19234.executor": "Run",
+    "Python.ex2-242.executor": "Run",
+    "Python.ex2-78.executor": "Run",
+    "Python.ex2-816.executor": "Run",
+    "Python.ex2-960.executor": "Run",
     "Python.ex5-14330.executor": "Run",
     "Python.task-1-1845.executor": "Run",
     "Python.task-14-19246.executor": "Run",
