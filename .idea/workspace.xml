@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smt">
-      <change afterPath="$PROJECT_DIR$/justlessons/160125/ex2-12671.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/160125/ex2-13077.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/160125/ex2-13089.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/160125/ex2-13797.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/160125/ex2-14390.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/160125/ex2-14443.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/160125/ex2-6842.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/160125/ex2-6843.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/160125/ex2-6989.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/160125/ex2-7667.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/160125/ex2-9148.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/160125/ex2-9771.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/podgotovka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/podgotovka.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done a lot of 2 ex" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -321,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736782347550</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="I have done a lot of 2 ex">
+      <option name="closed" value="true" />
+      <created>1737042733708</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737042733708</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -329,6 +321,7 @@
     <MESSAGE value="8th exercise URA" />
     <MESSAGE value="I have fone first ex" />
     <MESSAGE value="I have done smt" />
-    <option name="LAST_COMMIT_MESSAGE" value="I have done smt" />
+    <MESSAGE value="I have done a lot of 2 ex" />
+    <option name="LAST_COMMIT_MESSAGE" value="I have done a lot of 2 ex" />
   </component>
 </project>
