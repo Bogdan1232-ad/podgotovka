@@ -10,4 +10,5 @@ def f(n):
         k = (3001 - n) // 2
         return n + 4 * k
 
+
 print(f(40) - f(43))

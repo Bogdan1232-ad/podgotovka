@@ -32,6 +32,6 @@ for i in range(7):
 up()
 for x in range(-40, 40):
     for y in range(-40, 40):
-        goto(x*m, y*m)
+        goto(x * m, y * m)
         dot(2, 'darkred')
 done()
