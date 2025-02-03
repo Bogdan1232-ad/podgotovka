@@ -5,28 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smt">
-      <change afterPath="$PROJECT_DIR$/justlessons/200125/ex15-1859.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/200125/ex15-4595.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/200125/ex15-5620.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/200125/ex15-9746.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/200125/ex15-9838.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/200125/ex2-4459.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/230125/ex14-19705.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/230125/ex15-11837.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/230125/ex15-11845.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/230125/ex15-12247.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/230125/ex15-14350.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/230125/ex15-19359.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/230125/ex15-9784.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/230125/ex5-10657.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/230125/ex8-17798.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/270125/ex15-8676.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/270125/ex15-9545.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/270125/ex5-14331.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/270125/ex6-14173.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/270125/ex8-18974.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/podgotovka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/podgotovka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/030225/ex15-1013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/030225/ex15-746.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/030225/ex15-747.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/030225/ex15-753.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/030225/ex8-18976.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,59 +48,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.1846.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4582.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4607.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9733.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9771.executor&quot;: &quot;Run&quot;,
-    &quot;Python.egkr.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex14-19705.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex15-11837.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex15-11845.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex15-14350.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex15-1859.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex15-19359.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex15-4595.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex15-5620.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex15-8676.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex15-9545.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex15-9784.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex15-9838.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex2-12671.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex2-13077.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex2-13089.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex2-13797.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex2-14390.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex2-14443.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex2-4459.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex2-6842.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex2-6843.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex2-6989.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex2-7667.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex2-9148.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex2-9771.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex5-10657.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex5-14331.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex6-14173.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex8-17798.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex8-18974.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-1-1845.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-14-19246.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-2-4581.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-3-4606.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-5-19237.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task-8-19240.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/BKovalev/Desktop/podgotovka/261224&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1846.executor": "Run",
+    "Python.4582.executor": "Run",
+    "Python.4607.executor": "Run",
+    "Python.9733.executor": "Run",
+    "Python.9771.executor": "Run",
+    "Python.egkr.executor": "Run",
+    "Python.ex14-19705.executor": "Run",
+    "Python.ex15-11837.executor": "Run",
+    "Python.ex15-11845.executor": "Run",
+    "Python.ex15-14350.executor": "Run",
+    "Python.ex15-1859.executor": "Run",
+    "Python.ex15-19359.executor": "Run",
+    "Python.ex15-4595.executor": "Run",
+    "Python.ex15-5620.executor": "Run",
+    "Python.ex15-746.executor": "Run",
+    "Python.ex15-747.executor": "Run",
+    "Python.ex15-753.executor": "Run",
+    "Python.ex15-8676.executor": "Run",
+    "Python.ex15-9545.executor": "Run",
+    "Python.ex15-9784.executor": "Run",
+    "Python.ex15-9838.executor": "Run",
+    "Python.ex2-12671.executor": "Run",
+    "Python.ex2-13077.executor": "Run",
+    "Python.ex2-13089.executor": "Run",
+    "Python.ex2-13797.executor": "Run",
+    "Python.ex2-14390.executor": "Run",
+    "Python.ex2-14443.executor": "Run",
+    "Python.ex2-4459.executor": "Run",
+    "Python.ex2-6842.executor": "Run",
+    "Python.ex2-6843.executor": "Run",
+    "Python.ex2-6989.executor": "Run",
+    "Python.ex2-7667.executor": "Run",
+    "Python.ex2-9148.executor": "Run",
+    "Python.ex2-9771.executor": "Run",
+    "Python.ex5-10657.executor": "Run",
+    "Python.ex5-14331.executor": "Run",
+    "Python.ex6-14173.executor": "Run",
+    "Python.ex8-17798.executor": "Run",
+    "Python.ex8-18974.executor": "Run",
+    "Python.ex8-18976.executor": "Run",
+    "Python.task-1-1845.executor": "Run",
+    "Python.task-14-19246.executor": "Run",
+    "Python.task-2-4581.executor": "Run",
+    "Python.task-3-4606.executor": "Run",
+    "Python.task-5-19237.executor": "Run",
+    "Python.task-8-19240.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/BKovalev/Desktop/podgotovka/justlessons/010225",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\010225" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\261224" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -125,7 +113,7 @@
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\130125" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex2-9771">
+  <component name="RunManager">
     <configuration name="ex2-12671" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="podgotovka" />
       <option name="ENV_FILES" value="" />
@@ -357,7 +345,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736782347550</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="I have done smt">
+      <option name="closed" value="true" />
+      <created>1738431516544</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738431516544</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
