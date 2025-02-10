@@ -5,20 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smt">
-      <change afterPath="$PROJECT_DIR$/justlessons/060225/ex1-17664.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/060225/ex12-18579.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/060225/ex15-1198.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/060225/ex15-2861.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/060225/ex15-3736.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/060225/ex15-4278.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/060225/ex15-4285.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/060225/ex15-748.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/060225/ex2-14651.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/podgotovka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/podgotovka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/100225/17_4597.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/100225/17_4622.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/100225/17_9748.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/100225/17_9786.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/100225/ex17-4597.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/100225/ex17-4622.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/100225/ex17-9748.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/100225/ex17-9786.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_2_25,_11_24 AM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_2_25__11_24AM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/justlessons/030225/ex15-1013.py" beforeDir="false" afterPath="$PROJECT_DIR$/justlessons/030225/ex15-1013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGKR 21-12-24/task-14-19246.py" beforeDir="false" afterPath="$PROJECT_DIR$/justlessons/EGKR 21-12-24/task-14-19246.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGKR 21-12-24/task-5-19237.py" beforeDir="false" afterPath="$PROJECT_DIR$/justlessons/EGKR 21-12-24/task-5-19237.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGKR 21-12-24/task-8-19240.py" beforeDir="false" afterPath="$PROJECT_DIR$/justlessons/EGKR 21-12-24/task-8-19240.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +83,10 @@
     "Python.ex15-9545.executor": "Run",
     "Python.ex15-9784.executor": "Run",
     "Python.ex15-9838.executor": "Run",
+    "Python.ex17-4597.executor": "Run",
+    "Python.ex17-4622.executor": "Run",
+    "Python.ex17-9748.executor": "Run",
+    "Python.ex17-9786.executor": "Run",
     "Python.ex2-12671.executor": "Run",
     "Python.ex2-13077.executor": "Run",
     "Python.ex2-13089.executor": "Run",
@@ -111,15 +115,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/BKovalev/Desktop/podgotovka/261224",
+    "last_opened_file_path": "C:/Users/BKovalev/Desktop/podgotovka/justlessons/100225",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\100225" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\261224" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\270125" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\130125" />
     </key>
@@ -356,7 +362,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736782347550</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="I have done smt">
+      <option name="closed" value="true" />
+      <created>1738857131980</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1738857131980</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
