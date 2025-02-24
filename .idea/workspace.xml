@@ -5,14 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smt">
-      <change afterPath="$PROJECT_DIR$/justlessons/250224/17_18582.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/250224/250224.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/250224/ex12-14947.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/250224/ex25-17536.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/250224/ex25-1867.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/250224/ex25-3585.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/250224/ex5-15317.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/EGKR 21-12-24/17_18582.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/130225/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/130225/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/130225/17_7716.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/130225/ex14-4326.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/130225/ex15-15325.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/130225/ex15-16326.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/130225/ex2-1528.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/130225/ex5-9736.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/130225/ex6-17519.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/130225/ex8-6985.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/170225/17_13882.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/170225/17_19486.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex15-16833.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex17-13882.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex17-19486.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex25-17880.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex25-4603(1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex25-4628(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex25-4628.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex6-6013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex8-9994.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,14 +69,12 @@
     "Python.1.executor": "Run",
     "Python.17.executor": "Run",
     "Python.1846.executor": "Run",
-    "Python.250224.executor": "Run",
     "Python.4582.executor": "Run",
     "Python.4607.executor": "Run",
     "Python.9733.executor": "Run",
     "Python.9771.executor": "Run",
     "Python.egkr.executor": "Run",
     "Python.ex1-17664.executor": "Run",
-    "Python.ex12-14947.executor": "Run",
     "Python.ex12-18579.executor": "Run",
     "Python.ex14-19705.executor": "Run",
     "Python.ex14-4326.executor": "Run",
@@ -107,15 +118,12 @@
     "Python.ex2-7667.executor": "Run",
     "Python.ex2-9148.executor": "Run",
     "Python.ex2-9771.executor": "Run",
-    "Python.ex25-17536.executor": "Run",
     "Python.ex25-17880.executor": "Run",
-    "Python.ex25-1867.executor": "Run",
     "Python.ex25-4603.executor": "Run",
     "Python.ex25-4628(2).executor": "Debug",
     "Python.ex25-4628.executor": "Run",
     "Python.ex5-10657.executor": "Run",
     "Python.ex5-14331.executor": "Run",
-    "Python.ex5-15317.executor": "Run",
     "Python.ex5-9736.executor": "Run",
     "Python.ex6-14173.executor": "Run",
     "Python.ex6-17519.executor": "Run",
@@ -133,20 +141,18 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/BKovalev/Desktop/podgotovka/justlessons/250224",
+    "last_opened_file_path": "C:/Users/BKovalev/Desktop/podgotovka/justlessons/170225",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\250224" />
-      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\EGKR 21-12-24" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\170225" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\130225" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\100225" />
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\261224" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\250224" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\270125" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\130125" />
@@ -400,15 +406,7 @@
       <option name="project" value="LOCAL" />
       <updated>1739202862026</updated>
     </task>
-    <task id="LOCAL-00011" summary="I have done smt">
-      <option name="closed" value="true" />
-      <created>1739807198089</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1739807198089</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
