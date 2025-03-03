@@ -5,27 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smt">
-      <change afterPath="$PROJECT_DIR$/justlessons/130225/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/130225/17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/130225/17_7716.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/130225/ex14-4326.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/130225/ex15-15325.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/130225/ex15-16326.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/130225/ex2-1528.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/130225/ex5-9736.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/130225/ex6-17519.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/130225/ex8-6985.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/170225/17_13882.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/170225/17_19486.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex15-16833.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex17-13882.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex17-19486.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex25-17880.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex25-4603(1).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex25-4628(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex25-4628.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex6-6013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/170225/ex8-9994.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex14-14344.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex15-17528.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex16-17529.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex16-1860.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex16-4569.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex16-4621.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex16-9747.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex16-9785.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex16-9839.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex19872.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex25-19157.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/podgotovka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/podgotovka.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +68,7 @@
     "Python.egkr.executor": "Run",
     "Python.ex1-17664.executor": "Run",
     "Python.ex12-18579.executor": "Run",
+    "Python.ex14-14344.executor": "Run",
     "Python.ex14-19705.executor": "Run",
     "Python.ex14-4326.executor": "Run",
     "Python.ex15-11837.executor": "Run",
@@ -85,6 +78,7 @@
     "Python.ex15-15325.executor": "Run",
     "Python.ex15-16326.executor": "Run",
     "Python.ex15-16833.executor": "Run",
+    "Python.ex15-17528.executor": "Run",
     "Python.ex15-1859.executor": "Run",
     "Python.ex15-19359.executor": "Run",
     "Python.ex15-2861.executor": "Run",
@@ -97,12 +91,20 @@
     "Python.ex15-9545.executor": "Run",
     "Python.ex15-9784.executor": "Run",
     "Python.ex15-9838.executor": "Run",
+    "Python.ex16-17529.executor": "Run",
+    "Python.ex16-1860.executor": "Run",
+    "Python.ex16-4569.executor": "Run",
+    "Python.ex16-4621.executor": "Run",
+    "Python.ex16-9747.executor": "Run",
+    "Python.ex16-9785.executor": "Run",
+    "Python.ex16-9839.executor": "Run",
     "Python.ex17-13882.executor": "Run",
     "Python.ex17-19486.executor": "Run",
     "Python.ex17-4597.executor": "Run",
     "Python.ex17-4622.executor": "Run",
     "Python.ex17-9748.executor": "Run",
     "Python.ex17-9786.executor": "Run",
+    "Python.ex19872.executor": "Run",
     "Python.ex2-12671.executor": "Run",
     "Python.ex2-13077.executor": "Run",
     "Python.ex2-13089.executor": "Run",
@@ -153,12 +155,35 @@
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\261224" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\030325" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\270125" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\130125" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration name="ex19872" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="podgotovka" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/justlessons/030325" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/justlessons/030325/ex19872.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ex2-12671" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="podgotovka" />
       <option name="ENV_FILES" value="" />
@@ -293,6 +318,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.ex19872" />
       <item itemvalue="Python.ex2-9771" />
       <item itemvalue="Python.ex2-12671" />
       <item itemvalue="Python.ex2-13077" />
