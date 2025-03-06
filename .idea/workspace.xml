@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smt">
-      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex14-14344.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex15-17528.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex16-17529.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex16-1860.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex16-4569.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex16-4621.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex16-9747.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex16-9785.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex16-9839.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex19872.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/030325/ex25-19157.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/podgotovka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/podgotovka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/060325/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/060325/ex5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,6 +93,7 @@
     "Python.ex17-4622.executor": "Run",
     "Python.ex17-9748.executor": "Run",
     "Python.ex17-9786.executor": "Run",
+    "Python.ex17557.executor": "Run",
     "Python.ex19872.executor": "Run",
     "Python.ex2-12671.executor": "Run",
     "Python.ex2-13077.executor": "Run",
@@ -120,6 +110,7 @@
     "Python.ex2-7667.executor": "Run",
     "Python.ex2-9148.executor": "Run",
     "Python.ex2-9771.executor": "Run",
+    "Python.ex2.executor": "Run",
     "Python.ex25-17880.executor": "Run",
     "Python.ex25-4603.executor": "Run",
     "Python.ex25-4628(2).executor": "Debug",
@@ -127,6 +118,7 @@
     "Python.ex5-10657.executor": "Run",
     "Python.ex5-14331.executor": "Run",
     "Python.ex5-9736.executor": "Run",
+    "Python.ex5.executor": "Run",
     "Python.ex6-14173.executor": "Run",
     "Python.ex6-17519.executor": "Run",
     "Python.ex6-6013.executor": "Run",
@@ -432,7 +424,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739202862026</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="I have done smt">
+      <option name="closed" value="true" />
+      <created>1741017324038</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741017324038</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
