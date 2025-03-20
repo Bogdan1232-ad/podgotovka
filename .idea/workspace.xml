@@ -4,27 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smth">
-      <change afterPath="$PROJECT_DIR$/hw/190225/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190225/24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190225/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190225/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190225/ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190225/ex15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190225/ex16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190225/ex17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190225/ex19-20-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190225/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190225/ex23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190225/ex24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190225/ex25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190225/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190225/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/190225/ex8.py" afterDir="false" />
+    <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smt">
+      <change afterPath="$PROJECT_DIR$/justlessons/200325/17_17636.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/200325/ex14-18580.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/200325/ex16-18123.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/200325/ex17-17636.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/200325/ex17-19307.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/200325/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/17_14952 (1).txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/EX8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex2-12671.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/jks.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/podgotovka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/podgotovka.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/justlessons/170225/ex6-6013.py" beforeDir="false" afterPath="$PROJECT_DIR$/justlessons/170225/ex6-6013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw/160325/ex25-10725.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw/160325/ex25-10725.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +53,9 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Bogdan1232-ad/podgotovka.git&quot;,
-    &quot;accountId&quot;: &quot;661f2c21-4041-47de-b156-0dd5551a8bad&quot;
+    &quot;accountId&quot;: &quot;dad80b58-d8b5-4a51-a682-46a16df8b0b5&quot;
   }
 }</component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -68,49 +68,114 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1.executor": "Run",
-    "Python.12.executor": "Run",
-    "Python.14.executor": "Run",
-    "Python.15.executor": "Run",
-    "Python.16.executor": "Run",
     "Python.17.executor": "Run",
     "Python.1846.executor": "Run",
-    "Python.2.executor": "Run",
-    "Python.23.executor": "Run",
-    "Python.24.executor": "Run",
     "Python.4582.executor": "Run",
     "Python.4607.executor": "Run",
-    "Python.5.executor": "Run",
-    "Python.6.executor": "Run",
-    "Python.7.executor": "Run",
-    "Python.8.executor": "Run",
     "Python.9733.executor": "Run",
     "Python.9771.executor": "Run",
+    "Python.EX8.executor": "Run",
     "Python.egkr.executor": "Run",
-    "Python.ex1-16248.executor": "Run",
-    "Python.ex1-19233.executor": "Run",
+    "Python.ex1-17664.executor": "Run",
     "Python.ex1.executor": "Run",
+    "Python.ex12-18579.executor": "Run",
+    "Python.ex12-19483.executor": "Run",
     "Python.ex12.executor": "Run",
+    "Python.ex14-14344.executor": "Run",
+    "Python.ex14-18488.executor": "Run",
+    "Python.ex14-18580.executor": "Run",
+    "Python.ex14-19705.executor": "Run",
+    "Python.ex14-4326.executor": "Run",
     "Python.ex14.executor": "Run",
+    "Python.ex15-11837.executor": "Run",
+    "Python.ex15-11845.executor": "Run",
+    "Python.ex15-1198.executor": "Run",
+    "Python.ex15-14350.executor": "Run",
+    "Python.ex15-15325.executor": "Run",
+    "Python.ex15-16326.executor": "Run",
+    "Python.ex15-16833.executor": "Run",
+    "Python.ex15-17528.executor": "Run",
+    "Python.ex15-1859.executor": "Run",
+    "Python.ex15-19359.executor": "Run",
+    "Python.ex15-2861.executor": "Run",
+    "Python.ex15-3736.executor": "Run",
+    "Python.ex15-4285.executor": "Run",
+    "Python.ex15-4595.executor": "Run",
+    "Python.ex15-5620.executor": "Run",
+    "Python.ex15-748.executor": "Run",
+    "Python.ex15-8676.executor": "Run",
+    "Python.ex15-9545.executor": "Run",
+    "Python.ex15-9784.executor": "Run",
+    "Python.ex15-9838.executor": "Run",
     "Python.ex15.executor": "Run",
+    "Python.ex16-17529.executor": "Run",
+    "Python.ex16-18123.executor": "Run",
+    "Python.ex16-1860.executor": "Run",
+    "Python.ex16-4569.executor": "Run",
+    "Python.ex16-4621.executor": "Run",
+    "Python.ex16-9747.executor": "Run",
+    "Python.ex16-9785.executor": "Run",
+    "Python.ex16-9839.executor": "Run",
     "Python.ex16.executor": "Run",
+    "Python.ex17-13882.executor": "Run",
+    "Python.ex17-14952.executor": "Run",
+    "Python.ex17-17636.executor": "Run",
+    "Python.ex17-19307.executor": "Run",
+    "Python.ex17-19486.executor": "Run",
+    "Python.ex17-4597.executor": "Run",
+    "Python.ex17-4622.executor": "Run",
+    "Python.ex17-9748.executor": "Run",
+    "Python.ex17-9786.executor": "Run",
     "Python.ex17.executor": "Run",
-    "Python.ex19-20-21.executor": "Run",
-    "Python.ex2-17621.executor": "Run",
-    "Python.ex2-17665.executor": "Run",
-    "Python.ex2-18576.executor": "Run",
-    "Python.ex2-19234.executor": "Run",
-    "Python.ex2-242.executor": "Run",
-    "Python.ex2-78.executor": "Run",
-    "Python.ex2-816.executor": "Run",
-    "Python.ex2-960.executor": "Run",
+    "Python.ex17557.executor": "Run",
+    "Python.ex19872.executor": "Run",
+    "Python.ex2-12671.executor": "Run",
+    "Python.ex2-13077.executor": "Run",
+    "Python.ex2-13089.executor": "Run",
+    "Python.ex2-13797.executor": "Run",
+    "Python.ex2-14390.executor": "Run",
+    "Python.ex2-14443.executor": "Run",
+    "Python.ex2-14651.executor": "Run",
+    "Python.ex2-1528.executor": "Run",
+    "Python.ex2-4459.executor": "Run",
+    "Python.ex2-6842.executor": "Run",
+    "Python.ex2-6843.executor": "Run",
+    "Python.ex2-6989.executor": "Run",
+    "Python.ex2-7667.executor": "Run",
+    "Python.ex2-9148.executor": "Run",
+    "Python.ex2-9771.executor": "Run",
     "Python.ex2.executor": "Run",
+    "Python.ex23-11240.executor": "Run",
+    "Python.ex23-13099.executor": "Run",
+    "Python.ex23-17534.executor": "Run",
+    "Python.ex23-17562.executor": "Run",
+    "Python.ex23-17640.executor": "Run",
+    "Python.ex23-19121.executor": "Run",
+    "Python.ex23-6635.executor": "Run",
+    "Python.ex23-9790.executor": "Run",
+    "Python.ex23-9844.executor": "Run",
     "Python.ex23.executor": "Run",
-    "Python.ex24.executor": "Run",
-    "Python.ex25.executor": "Run",
-    "Python.ex5-14330.executor": "Run",
+    "Python.ex25-10725.executor": "Run",
+    "Python.ex25-17880.executor": "Run",
+    "Python.ex25-3025.executor": "Run",
+    "Python.ex25-4603.executor": "Run",
+    "Python.ex25-4628(2).executor": "Debug",
+    "Python.ex25-4628.executor": "Run",
+    "Python.ex5-10657.executor": "Run",
+    "Python.ex5-14331.executor": "Run",
+    "Python.ex5-7607.executor": "Run",
+    "Python.ex5-9736.executor": "Run",
     "Python.ex5.executor": "Run",
+    "Python.ex6-14173.executor": "Run",
+    "Python.ex6-17519.executor": "Run",
+    "Python.ex6-18131.executor": "Run",
+    "Python.ex6-6013.executor": "Run",
     "Python.ex6.executor": "Run",
-    "Python.ex8.executor": "Run",
+    "Python.ex8-17798.executor": "Run",
+    "Python.ex8-18974.executor": "Run",
+    "Python.ex8-6985.executor": "Run",
+    "Python.ex8-9994.executor": "Run",
+    "Python.jks.executor": "Run",
     "Python.task-1-1845.executor": "Run",
     "Python.task-14-19246.executor": "Run",
     "Python.task-2-4581.executor": "Run",
@@ -120,18 +185,200 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/bogdan/PycharmProjects/podgotovka/hw/190225"
+    "last_opened_file_path": "C:/Users/BKovalev/Desktop/podgotovka/justlessons/ex5-20182",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/hw/190225" />
-      <recent name="$PROJECT_DIR$/hw/020125" />
-      <recent name="C:\Users\BKovalev\Desktop\podgotovka\261224" />
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\ex5-20182" />
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\mokexam2" />
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\130325" />
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\170225" />
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\130225" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\130125" />
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\mokexam2" />
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons" />
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\100325" />
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\030325" />
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\270125" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ex19872" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="podgotovka" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/justlessons/030325" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/justlessons/030325/ex19872.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex2-12671" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="podgotovka" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/justlessons/160125" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/justlessons/160125/ex2-12671.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex2-13077" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="podgotovka" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/justlessons/160125" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/justlessons/160125/ex2-13077.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex2-6842" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="podgotovka" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (PythonProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/justlessons/160125" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/justlessons/160125/ex2-6842.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex2-6843" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="podgotovka" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/justlessons/160125" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/justlessons/160125/ex2-6843.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex2-6989" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="podgotovka" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/justlessons/160125" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/justlessons/160125/ex2-6989.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex2-9771" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="podgotovka" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/justlessons/160125" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/justlessons/160125/ex2-9771.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ex19872" />
+      <item itemvalue="Python.ex2-9771" />
+      <item itemvalue="Python.ex2-12671" />
+      <item itemvalue="Python.ex2-13077" />
+      <item itemvalue="Python.ex2-6842" />
+      <item itemvalue="Python.ex2-6843" />
+      <item itemvalue="Python.ex2-6989" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex2-6843" />
+        <item itemvalue="Python.ex2-6842" />
+        <item itemvalue="Python.ex2-6989" />
+        <item itemvalue="Python.ex2-12671" />
+        <item itemvalue="Python.ex2-13077" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -213,32 +460,65 @@
       <option name="project" value="LOCAL" />
       <updated>1736782347550</updated>
     </task>
-    <task id="LOCAL-00009" summary="I have done all second ex. It was good">
+    <task id="LOCAL-00009" summary="I have done smt">
       <option name="closed" value="true" />
-      <created>1736959746729</created>
+      <created>1738857131980</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1736959746729</updated>
+      <updated>1738857131980</updated>
     </task>
-    <task id="LOCAL-00010" summary="I have done smth">
+    <task id="LOCAL-00010" summary="I have done smt">
       <option name="closed" value="true" />
-      <created>1737296595802</created>
+      <created>1739202862026</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1737296595802</updated>
+      <updated>1739202862026</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="I have done smt">
+      <option name="closed" value="true" />
+      <created>1741017324038</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741017324038</updated>
+    </task>
+    <task id="LOCAL-00012" summary="I have done smt">
+      <option name="closed" value="true" />
+      <created>1741275735431</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1741275735431</updated>
+    </task>
+    <task id="LOCAL-00013" summary="I have done smt">
+      <option name="closed" value="true" />
+      <created>1741622009808</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1741622009808</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit start" />
     <MESSAGE value="8th exercise URA" />
     <MESSAGE value="I have fone first ex" />
     <MESSAGE value="I have done smt" />
-    <MESSAGE value="I have done all second ex. It was good" />
-    <MESSAGE value="I have done smth" />
-    <option name="LAST_COMMIT_MESSAGE" value="I have done smth" />
+    <option name="LAST_COMMIT_MESSAGE" value="I have done smt" />
   </component>
 </project>
