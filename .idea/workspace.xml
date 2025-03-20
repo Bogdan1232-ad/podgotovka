@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smt">
       <change afterPath="$PROJECT_DIR$/justlessons/200325/17_17636.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/200325/19-21.xlsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/justlessons/200325/ex14-18580.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/justlessons/200325/ex16-18123.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/justlessons/200325/ex17-17636.py" afterDir="false" />
@@ -198,11 +199,11 @@
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\130225" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\200325" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\mokexam2" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\100325" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\030325" />
-      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\270125" />
     </key>
   </component>
   <component name="RunManager">
@@ -500,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741622009808</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="I have done smt">
+      <option name="closed" value="true" />
+      <created>1742484966309</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1742484966309</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
