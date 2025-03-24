@@ -5,30 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smt">
-      <change afterPath="$PROJECT_DIR$/justlessons/200325/17_17636.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/200325/19-21.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/200325/ex14-18580.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/200325/ex16-18123.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/200325/ex17-17636.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/200325/ex17-19307.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/200325/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/17_14952 (1).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/EX8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex2-12671.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/ex6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/mokexam2/jks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/podgotovka.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/podgotovka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/100325/ex5-7607.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/240325/17 (2)_7718.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/240325/ex12-11231.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/240325/ex17-7718.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw/160325/ex25-10725.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw/160325/ex25-10725.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +60,7 @@
     "Python.egkr.executor": "Run",
     "Python.ex1-17664.executor": "Run",
     "Python.ex1.executor": "Run",
+    "Python.ex12-11231.executor": "Run",
     "Python.ex12-18579.executor": "Run",
     "Python.ex12-19483.executor": "Run",
     "Python.ex12.executor": "Run",
@@ -125,6 +107,7 @@
     "Python.ex17-19486.executor": "Run",
     "Python.ex17-4597.executor": "Run",
     "Python.ex17-4622.executor": "Run",
+    "Python.ex17-7718.executor": "Run",
     "Python.ex17-9748.executor": "Run",
     "Python.ex17-9786.executor": "Run",
     "Python.ex17.executor": "Run",
@@ -186,17 +169,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/BKovalev/Desktop/podgotovka/justlessons/ex5-20182",
+    "last_opened_file_path": "C:/Users/BKovalev/Desktop/podgotovka/justlessons/240325",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\240325" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\ex5-20182" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\mokexam2" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\130325" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\170225" />
-      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\130225" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\200325" />
