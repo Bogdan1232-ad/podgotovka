@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smt">
-      <change afterPath="$PROJECT_DIR$/justlessons/100325/ex5-7607.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/240325/17 (2)_7718.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/240325/ex12-11231.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/240325/ex17-7718.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/270325/12-10714.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/270325/17_12735.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/270325/19-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/270325/24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/270325/24_4643.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/270325/ex17-12735.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/270325/ex25-8696.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/270325/ex5-18119.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +54,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1.executor": "Run",
+    "Python.12-10714.executor": "Run",
     "Python.17.executor": "Run",
     "Python.1846.executor": "Run",
+    "Python.19-21.executor": "Run",
+    "Python.24.executor": "Run",
     "Python.4582.executor": "Run",
     "Python.4607.executor": "Run",
     "Python.9733.executor": "Run",
@@ -100,6 +107,7 @@
     "Python.ex16-9785.executor": "Run",
     "Python.ex16-9839.executor": "Run",
     "Python.ex16.executor": "Run",
+    "Python.ex17-12735.executor": "Run",
     "Python.ex17-13882.executor": "Run",
     "Python.ex17-14952.executor": "Run",
     "Python.ex17-17636.executor": "Run",
@@ -145,8 +153,10 @@
     "Python.ex25-4603.executor": "Run",
     "Python.ex25-4628(2).executor": "Debug",
     "Python.ex25-4628.executor": "Run",
+    "Python.ex25-8696.executor": "Run",
     "Python.ex5-10657.executor": "Run",
     "Python.ex5-14331.executor": "Run",
+    "Python.ex5-18119.executor": "Run",
     "Python.ex5-7607.executor": "Run",
     "Python.ex5-9736.executor": "Run",
     "Python.ex5.executor": "Run",
@@ -169,24 +179,24 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/BKovalev/Desktop/podgotovka/justlessons/240325",
+    "last_opened_file_path": "C:/Users/BKovalev/Desktop/podgotovka/justlessons/270325",
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\270325" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\240325" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\ex5-20182" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\mokexam2" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\130325" />
-      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\170225" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\240325" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\200325" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\mokexam2" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\100325" />
-      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\030325" />
     </key>
   </component>
   <component name="RunManager">
@@ -492,7 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742484966309</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="I have done smt">
+      <option name="closed" value="true" />
+      <created>1742830762260</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1742830762260</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
