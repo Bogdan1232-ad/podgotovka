@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smt">
-      <change afterPath="$PROJECT_DIR$/hw/190225/ex13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/100425/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/100425/19-7850.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/140425/12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/140425/13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/140425/19-21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/140425/21407.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/140425/24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/140425/24_21421.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/140425/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/140425/9-21408.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/140425/9_21408.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/140425/9_21408.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/2504117/13-11790.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/2504117/13-11791.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/2504117/13-11835.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/2504117/ex13-11794.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/2504117/ex13-17554.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/2504117/ex13-17632.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/justlessons/2504117/ex13-17676.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/justlessons/140425/24.py" beforeDir="false" afterPath="$PROJECT_DIR$/justlessons/140425/24.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +56,8 @@
     "Python.1.executor": "Run",
     "Python.12-10714.executor": "Run",
     "Python.12.executor": "Run",
+    "Python.13-11790.executor": "Run",
+    "Python.13-11791.executor": "Run",
     "Python.13.executor": "Run",
     "Python.17.executor": "Run",
     "Python.1846.executor": "Run",
@@ -71,6 +68,7 @@
     "Python.19-7850.executor": "Run",
     "Python.21407.executor": "Run",
     "Python.24.executor": "Run",
+    "Python.250425.executor": "Run",
     "Python.4582.executor": "Run",
     "Python.4607.executor": "Run",
     "Python.6.executor": "Run",
@@ -87,6 +85,10 @@
     "Python.ex12-18579.executor": "Run",
     "Python.ex12-19483.executor": "Run",
     "Python.ex12.executor": "Run",
+    "Python.ex13-11794.executor": "Run",
+    "Python.ex13-17554.executor": "Run",
+    "Python.ex13-17632.executor": "Run",
+    "Python.ex13-17676.executor": "Run",
     "Python.ex13.executor": "Run",
     "Python.ex14-14344.executor": "Run",
     "Python.ex14-18488.executor": "Run",
@@ -204,8 +206,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/BKovalev/Desktop/podgotovka/justlessons/140425",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "last_opened_file_path": "C:/Users/BKovalev/Downloads/one-dark-theme/lib/one-dark-theme.jar",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -217,11 +219,11 @@
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\mokexam2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\2504117" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\140425" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\070425" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\240325" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\200325" />
-      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\mokexam2" />
     </key>
   </component>
   <component name="RunManager">
@@ -567,7 +569,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744041356778</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="I have done smt">
+      <option name="closed" value="true" />
+      <created>1744646022963</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1744646022963</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

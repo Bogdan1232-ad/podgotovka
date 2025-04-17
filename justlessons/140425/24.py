@@ -8,7 +8,7 @@ for i in ascii_uppercase:
 
 l = set()
 for i in data:
-    i = lstrip('0')
+    i = i.strip('0')
     if int(i) % 2 == 0:
         l.add(i)
 
