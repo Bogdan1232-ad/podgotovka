@@ -5,16 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smt">
-      <change afterPath="$PROJECT_DIR$/justlessons/070425/09_9778.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/070425/9-4612.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/070425/9-9978.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/070425/9_4589.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/070425/9_4614.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/070425/9_9740.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/070425/9_9832.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/070425/ex9-9740.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/070425/ex9-9832.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/070425/excelbycode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/200425/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/200425/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/200425/14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/200425/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/200425/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/200425/17755.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/200425/17_2399.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/200425/192021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/200425/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/200425/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/200425/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/200425/8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,15 +59,24 @@
   "keyToString": {
     "Python.1.executor": "Run",
     "Python.12-10714.executor": "Run",
+    "Python.12.executor": "Run",
+    "Python.14.executor": "Run",
+    "Python.15.executor": "Run",
     "Python.17.executor": "Run",
+    "Python.17755.executor": "Run",
     "Python.1846.executor": "Run",
     "Python.18488.executor": "Run",
     "Python.19-21-702.executor": "Run",
     "Python.19-21.executor": "Run",
     "Python.19-21twoholes.executor": "Run",
+    "Python.192021.executor": "Run",
+    "Python.2.executor": "Run",
     "Python.24.executor": "Run",
     "Python.4582.executor": "Run",
     "Python.4607.executor": "Run",
+    "Python.5.executor": "Run",
+    "Python.6.executor": "Run",
+    "Python.8.executor": "Run",
     "Python.9-4612.executor": "Run",
     "Python.9-9978.executor": "Run",
     "Python.9733.executor": "Run",
@@ -130,7 +141,7 @@
     "Python.ex19-21(436).executor": "Run",
     "Python.ex19-21-16330.executor": "Run",
     "Python.ex19-21default.executor": "Run",
-    "Python.ex19872.executor": "Run",
+    "Python.ex19872.executor": "Debug",
     "Python.ex2-12671.executor": "Run",
     "Python.ex2-13077.executor": "Run",
     "Python.ex2-13089.executor": "Run",
@@ -193,17 +204,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/BKovalev/Desktop/podgotovka/justlessons/270325",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "last_opened_file_path": "/home/bogdan/PycharmProjects/podgotovka/hw/200425",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw/200425" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\270325" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\240325" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\ex5-20182" />
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\mokexam2" />
-      <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\130325" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\BKovalev\Desktop\podgotovka\justlessons\070425" />
@@ -289,7 +300,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.13 (PythonProject)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/justlessons/160125" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -380,11 +390,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex2-6989" />
         <item itemvalue="Python.ex2-6843" />
         <item itemvalue="Python.ex2-6842" />
-        <item itemvalue="Python.ex2-6989" />
-        <item itemvalue="Python.ex2-12671" />
         <item itemvalue="Python.ex2-13077" />
+        <item itemvalue="Python.ex2-12671" />
       </list>
     </recent_temporary>
   </component>
@@ -568,5 +578,16 @@
     <MESSAGE value="I have fone first ex" />
     <MESSAGE value="I have done smt" />
     <option name="LAST_COMMIT_MESSAGE" value="I have done smt" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/justlessons/310325/19-21twoholes.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
