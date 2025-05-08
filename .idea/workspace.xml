@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed162f92-b582-487b-8c70-9ca61d77a1c3" name="Changes" comment="I have done smt">
-      <change afterPath="$PROJECT_DIR$/hw/5-20883/25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/5-20883/251.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw/5-20883/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/justlessons/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/080525/15-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/080525/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/080525/19-21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/080525/27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/080525/ex8-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw/080525/ex8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +55,7 @@
     "Python.12-10714.executor": "Run",
     "Python.12.executor": "Run",
     "Python.14.executor": "Run",
+    "Python.15-2.executor": "Run",
     "Python.15.executor": "Run",
     "Python.17.executor": "Run",
     "Python.17755.executor": "Run",
@@ -182,9 +185,11 @@
     "Python.ex8-17798.executor": "Run",
     "Python.ex8-17799.executor": "Run",
     "Python.ex8-18974.executor": "Run",
+    "Python.ex8-2.executor": "Run",
     "Python.ex8-6591.executor": "Run",
     "Python.ex8-6985.executor": "Run",
     "Python.ex8-9994.executor": "Run",
+    "Python.ex8.executor": "Run",
     "Python.ex9-9740.executor": "Run",
     "Python.excelbycode.executor": "Run",
     "Python.jks.executor": "Run",
@@ -559,7 +564,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745183397045</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="I have done smt">
+      <option name="closed" value="true" />
+      <created>1746386396023</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1746386396023</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
